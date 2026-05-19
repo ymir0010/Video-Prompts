@@ -1,8 +1,8 @@
 # Video-Prompts
-# video‑prompts 本仓库为 AI 视频生成提示词工程 &amp; 模型测试学习项目。 收录 Veo3.1、Kling 等主流视频模型的**提示词、参数配置、复刻教程、问题优化记录**， 用于验证文生图、文生视频、图生视频功能的可用性、稳定性，为短视频AI生成提供标准化模板。 
-## 项目内容
-1. 15 个热门风格AI视频复刻案例
-2. 标准化提示词 + 可直接复用参数
-3. 模型稳定性测试记录与优化方案
-4. Markdown 标准化教程文档
-## 模型 - Veo3.1 - Kling
+# video-prompts This repository is an AI video generation prompt engineering & model testing learning project. It includes **prompts, parameter configurations, replication tutorials, and problem optimization records** for mainstream video models such as Veo3.1 and Kling, used to verify the availability and stability of text-to-image, text-to-video, and image-to-video functions, and to provide standardized templates for short video AI generation.
+## Project Content
+1. 15 popular style AI video replication cases
+2. Standardized prompts + directly reusable parameters
+3. Model stability test records and optimization solutions
+4. Markdown standardized tutorial documentation
+## Models - Veo3.1 - Kling
