@@ -12,16 +12,15 @@ One continuous shot, a hacker in black raincoat walks through a crowded neon str
 
 **时空演变:**
 
-* **Start:** 从高空远景开始，雨夜赛博都市霓虹闪烁，湿滑街道车流穿梭
-* **Action:** 主体穿过人群走向悬浮飞船，登船后舱门关闭，引擎蓝光亮起
-* **End:** 镜头推进至驾驶舱，定格在黑客泛着冷蓝光的机械义眼特写
+* **Start:** Begin with a distant aerial view of a rain-soaked cyberpunk city, neon lights flickering, and traffic flowing through wet streets.
+* **Action:** The subject walks through the crowd towards a floating aircraft, boarding it. After boarding, the hatch closes and the blue engine lights ignite.
+* **End:** The camera zooms into the cockpit, focusing on a close-up of the hacker's mechanical cybernetic eye, glowing with a cold blue light.
 
-**Camera Movement:** 缓慢跟拍+低角度仰拍，轻微手持抖动，登船后向内推近
+**Camera Movement:** Slow tracking shot + low-angle shot, slight handheld shake, push in after boarding.
 
-**Physics/Details:** 防水雨衣反光、霓虹灯光在水面的折射、飞船引擎尾焰、雨水打湿发丝的细节
+**Physics/Details:** Reflective waterproof raincoat, neon light reflections on the water surface, aircraft engine exhaust flames, details of rain-soaked hair.
 
-**Visual Bible:** 冷色调以青蓝、洋红为主，高对比霓虹光，暗部压黑，强胶片颗粒感
-
+**Visual Bible:** Cool color palette dominated by cyan and magenta, high contrast neon lights, dark areas blackened, strong film grain.
 \---
 
 ### 生成参数 (Generation Params)
@@ -42,19 +41,17 @@ negative: morphing, extra limbs, bright sunshine, smiling, cartoonish
 
 **Final Prompt (EN):**
 One continuous shot, an astronaut floats inside a narrow space capsule, then turns to stare at the blue Earth through the porthole, ending with a reflection of the planet in their visor.
+**Time-Space Evolution:**
 
-**时空演变:**
+*   **Start:** Begins with a wide shot inside the capsule, with faint flickering silver-white instrument lights and a slowly floating astronaut.
+*   **Action:** The main subject turns and approaches the porthole, focusing their gaze outside.
+*   **End:** The camera moves close to the glass, freezing on a close-up of the Earth's light and shadow reflected in the visor.
 
-* **Start:** 从舱内远景开始，银白色仪器灯光微弱闪烁，宇航员缓慢漂浮
-* **Action:** 主体转身靠近舷窗，视线聚焦窗外
-* **End:** 镜头贴紧玻璃，定格在面罩上映出的地球光影特写
+**Camera Movement:** Smooth pan + slow zoom, no shaking, zero-gravity slow-motion texture.
 
-**Camera Movement:** 平滑平移+缓慢推近，无抖动，零重力慢动作质感
+**Physics/Details:** Spacesuit fiber texture, metal reflections on the bulkheads, tiny scratches on the glass, gradient of the Earth's light.
 
-**Physics/Details:** 航天服纤维纹理、舱壁金属反光、玻璃上的微小划痕、地球光线的渐变
-
-**Visual Bible:** 深邃黑+幽蓝地球光，低饱和度，纯净冷色调，细腻噪点
-
+**Visual Bible:** Deep black + dim blue Earth light, low saturation, pure cool tones, fine grain.
 \---
 
 ### 生成参数 (Generation Params)
@@ -76,18 +73,17 @@ negative: morphing, extra limbs, bright colors, sunshine, cartoonish
 **Final Prompt (EN):**
 One continuous shot, a rusted robot lies in a scrapyard, then its red eye flickers on, the camera zooms in to show its broken but glowing iris.
 
-**时空演变:**
+**Space-Time Evolution:**
 
-* **Start:** 从高空远景开始，荒漠废土上堆积着金属残骸，机器人静止其中
-* **Action:** 主体头部微动，电路火花闪烁，单眼亮起红光
-* **End:** 镜头微距聚焦，定格在破损但发光的机械瞳孔特写
+*   **Start:** Begins with a long shot from high above, showing metal wreckage piled on a desolate wasteland, with robots standing still among it.
+*   **Action:** The main subject's head moves slightly, circuits spark, and a single eye lights up with a red glow.
+*   **End:** The camera focuses in macro, freezing on a close-up of a damaged but glowing mechanical pupil.
 
-**Camera Movement:** 缓慢俯降+定点微距，轻微电流抖动，工业风运镜
+**Camera Movement:** Slow descent + fixed-point macro, slight electrical jitter, industrial-style camera movement.
 
-**Physics/Details:** 锈蚀金属纹理、电路火花、机械关节的卡顿、沙尘附着在金属上的质感
+**Physics/Details:** Rusted metal texture, circuit sparks, mechanical joints stuttering, the texture of sand and dust adhering to the metal.
 
-**Visual Bible:** 土黄+铁锈红，低饱和褪色，高颗粒感，末世废土色调
-
+**Visual Bible:** Earthy yellow + rust red, low saturation fading, high graininess, apocalyptic wasteland color scheme.
 \---
 
 ### 生成参数 (Generation Params)
@@ -109,18 +105,17 @@ negative: morphing, extra limbs, bright colors, smiling, cartoonish
 **Final Prompt (EN):**
 One continuous shot, a scientist walks toward a glowing blue portal, steps through it, and the camera follows into a distorted light effect, ending with their silhouette in a new dimension.
 
-**时空演变:**
+**Space-Time Evolution:**
 
-* **Start:** 从实验室远景开始，中心悬浮蓝色旋转传送门，周围仪器运转
-* **Action:** 主体缓步踏入传送门，身体边缘像素化分解
-* **End:** 镜头随其穿过，定格在新空间中扭曲的人影剪影
+*   **Start:** Begins with a distant view of a laboratory, with a central, suspended, rotating blue portal, and surrounding operating equipment.
+*   **Action:** The subject slowly steps into the portal, their body edge pixelating and disintegrating.
+*   **End:** The camera follows them through, freezing on a distorted silhouette of a figure in a new space.
 
-**Camera Movement:** 缓慢推进+空间扭曲抖动，穿越时镜头轻微眩晕晃动
+**Camera Movement:** Slow zoom in + space warping shake, slight dizzying shake of the lens during the transition.
 
-**Physics/Details:** 能量门等离子流光、空气扭曲的涟漪、像素化破碎效果、光影折射畸变
+**Physics/Details:** Energy gate plasma streamers, air distortion ripples, pixelated disintegration effect, light and shadow refraction distortion.
 
-**Visual Bible:** 纯白+极光蓝，高通透发光，极简冷色调，空间扭曲光晕
-
+**Visual Bible:** Pure white + aurora blue, highly transparent luminescence, minimalist cool color palette, space warping halo.
 \---
 
 ### 生成参数 (Generation Params)
@@ -142,17 +137,17 @@ negative: morphing, extra limbs, logic errors, bright colors, cartoonish
 **Final Prompt (EN):**
 One continuous shot, a metal submersible dives into dark ocean, searchlight cuts through the water, then a huge shadow of an unknown creature appears, ending with the sub’s viewport reflection.
 
-**时空演变:**
+**Time-Space Evolution:**
 
-* **Start:** 从海面远景开始，漆黑深海表面，探测器缓缓下沉
-* **Action:** 探照灯破开黑暗，水体扰动，巨大黑影缓慢靠近
-* **End:** 镜头聚焦舷窗，定格在玻璃上映出的未知生物轮廓特写
+*   **Start:** Begins with a distant view of the sea, the surface of the pitch-black deep sea, a probe slowly descends
+*   **Action:** Searchlights pierce the darkness, the water is disturbed, a massive dark shadow slowly approaches
+*   **End:** The lens focuses on the porthole, freezing on a close-up of the silhouette of an unknown creature reflected on the glass
 
-**Camera Movement:** 随探测器缓慢下潜，水体轻微摇晃，沉浸式深海视角
+**Camera Movement:** Slowly descends with the probe, the water sways slightly, immersive deep-sea perspective
 
-**Physics/Details:** 海水浑浊流动、探照灯光束的丁达尔效应、浮游生物荧光、金属外壳反光
+**Physics/Details:** Murky flowing seawater, the Tyndall effect of the searchlight beams, bioluminescent plankton, reflections off the metal hull
 
-**Visual Bible:** 深海墨蓝+幽绿荧光，暗部死黑，透光冷光，阴森神秘色调
+**Visual Bible:** Deep-sea ink blue + faint green fluorescence, dead black in the dark areas, translucent cold light, a grim and mysterious color scheme
 
 \---
 
@@ -175,17 +170,17 @@ negative: morphing, extra limbs, bright colors, sunshine, cartoonish
 **Final Prompt (EN):**
 One continuous shot, a silver maglev train glides through glass skyscrapers in a futuristic city, the camera follows alongside, ending with a view of the train disappearing into a light tunnel.
 
-**时空演变:**
+**Space-time Evolution:**
 
-* **Start:** 从高空轨道远景开始，透明轨道穿梭摩天建筑群，列车无声滑行
-* **Action:** 镜头贴紧车身平行跟随，穿过透光穹顶
-* **End:** 定格列车穿透城市光海的动态画面，逐渐消失在远方
+*   **Start:** Begins with a distant view from high orbit, transparent tracks weaving through a cluster of skyscrapers, the train gliding silently.
+*   **Action:** The camera closely follows the train body in parallel, passing through a translucent dome.
+*   **End:** Freeze the dynamic scene of the train piercing through the city's sea of light, gradually disappearing into the distance.
 
-**Camera Movement:** 高速平行跟拍，轻微气流晃动，平滑流畅竞速运镜
+**Camera Movement:** High-speed parallel tracking shot, slight air turbulence, smooth and fluid racing camera work.
 
-**Physics/Details:** 列车烤漆外壳反光、空气扭曲热气流、玻璃建筑镜面反射、车轨光影
+**Physics/Details:** Reflective paint on the train's exterior, distorted air heat flow, reflections in the glass buildings, light and shadow on the tracks.
 
-**Visual Bible:** 纯白+浅蓝通透冷色，低饱和干净画质，极简未来科技色调
+**Visual Bible:** Pure white + light blue translucent cool colors, low saturation clean image quality, minimalist futuristic technological color palette.
 
 \---
 
@@ -208,17 +203,17 @@ negative: morphing, extra limbs, motion blur artifacts, cartoonish
 **Final Prompt (EN):**
 One continuous shot, a surgeon attaches a cybernetic arm to a patient in a sterile lab, the camera zooms in to show the metal and flesh connection, ending with the arm moving its fingers.
 
-**时空演变:**
+**Time-Space Evolution:**
 
-* **Start:** 从手术室远景开始，冷色灯光照射金属台面，病人手臂裸露
-* **Action:** 医生将机械臂接入接口，液压液体流动，齿轮咬合
-* **End:** 镜头微距聚焦，定格在血肉与金属缝合处，机械手指微动
+*   **Start:** Begins with a distant view of an operating room, cold-colored lights illuminate a metal table, a patient's arm is exposed.
+*   **Action:** Doctors connect a robotic arm to an interface, hydraulic fluid flows, gears engage.
+*   **End:** The camera focuses in macro, freezing on the stitching of flesh and metal, a mechanical finger twitches.
 
-**Camera Movement:** 定点微距拍摄，轻微手部动作抖动，精密医疗运镜
+**Camera Movement:** Fixed-point macro shooting, slight hand movement jitter, precise medical camera work.
 
-**Physics/Details:** 仿生肌肉纹理、航空合金机械骨骼、液压油管透明液体、齿轮咬合纹路
+**Physics/Details:** Bionic muscle texture, aerospace alloy mechanical skeleton, hydraulic hose transparent liquid, gear meshing texture.
 
-**Visual Bible:** 冷银+暗红血肉，高对比残酷色调，赛博朋克暗黑质感
+**Visual Bible:** Cold silver + dark red flesh, high contrast cruel tones, cyberpunk dark texture.
 
 \---
 
@@ -240,18 +235,17 @@ negative: morphing, extra limbs, cartoonish, bright colors
 
 **Final Prompt (EN):**
 One continuous shot, a large alien spacecraft descends over a desert, dust swirls around its base, the camera tilts up to show the glowing underside of the ship, ending with a close-up of its landing gear.
+**Space-time Evolution:**
 
-**时空演变:**
+*   **Start:** Begins with a desert vista, with yellow sand filling the sky and the outline of a spaceship appearing in the clouds.
+*   **Action:** The spaceship slowly descends, the engine's airflow kicking up sand and dust, the ground shaking.
+*   **End:** The shot is a low-angle upward view, স্থিরizing on a close-up of the mechanical structure at the bottom of the spaceship.
 
-* **Start:** 从荒漠远景开始，黄沙漫天，飞船轮廓在云层中显现
-* **Action:** 飞船缓慢降落，引擎气流扬起沙尘，地面震动
-* **End:** 镜头低角度仰拍，定格在飞船底部机械结构特写
+**Camera Movement:** Slow rise + low-angle upward shot, slight shaking from the airflow, grand science fiction camera movement.
 
-**Camera Movement:** 缓慢抬升+低角度仰拍，气流带来的轻微晃动，宏大科幻运镜
+**Physics/Details:** Spaceship's metal hull texture, engine's blue light tail flame, sand and dust flow, ground shaking ripples.
 
-**Physics/Details:** 飞船金属外壳纹理、引擎蓝光尾焰、沙尘流动、地面震动的波纹
-
-**Visual Bible:** 土黄+金属灰，低饱和，引擎冷蓝光，荒漠与科技对冲色调
+**Visual Bible:** Earthy yellow + metallic gray, low saturation, engine's cold blue light, contrasting colors of desert and technology.
 
 \---
 
@@ -274,17 +268,17 @@ negative: morphing, extra limbs, cartoonish, bright sunshine
 **Final Prompt (EN):**
 One continuous shot, a leader stands in a dark room, holographic projections of other leaders appear around them, the camera circles slowly, ending with a close-up of the leader’s serious face lit by the holograms.
 
-**时空演变:**
+**Space-Time Evolution:**
 
-* **Start:** 从房间远景开始，漆黑空间，中央人物伫立
-* **Action:** 多个全息投影从地面升起，环绕人物，发出淡蓝色光芒
-* **End:** 镜头环绕后推近，定格在人物被全息光照亮的面部特写
+*   **Start:** Begins with a wide shot of a room, a pitch-black space, with a central figure standing.
+*   **Action:** Multiple holographic projections rise from the ground, surrounding the figure, emitting a pale blue light.
+*   **End:** The camera slowly circles around and zooms in, freezing on a close-up of the figure's face illuminated by the holographic light.
 
-**Camera Movement:** 缓慢环绕+推近，无抖动，科技感运镜
+**Camera Movement:** Slow pan + zoom in, no shaking, technologically advanced camera work.
 
-**Physics/Details:** 全息投影的半透明质感、光线在人物脸上的反射、空气中的微小粒子、投影边缘的噪点
+**Physics/Details:** The translucent texture of the holographic projections, the reflection of light on the figure's face, tiny particles in the air, noise at the edges of the projections.
 
-**Visual Bible:** 纯黑+冷蓝，低饱和，高对比，极简科技暗调
+**Visual Bible:** Pure black + cold blue, low saturation, high contrast, minimalist, technological, dark tone.
 
 \---
 
@@ -307,18 +301,17 @@ negative: morphing, extra limbs, cartoonish, bright colors
 **Final Prompt (EN):**
 One continuous shot, survivors move around a makeshift camp in a ruined city at dusk, the camera pans slowly, ending with a lone figure watching the sunset from a broken building.
 
-**时空演变:**
+**Time-lapse Evolution:**
 
-* **Start:** 从高空远景开始，破败城市中营地火光点点，幸存者活动
-* **Action:** 镜头缓慢平移，穿过营地，看到人们生火、交谈、修补装备
-* **End:** 定格在高处的幸存者剪影，望着黄昏的废墟
+*   **Start:** Begins with a distant, high-altitude view of a ruined city with campfires flickering and survivors moving about.
+*   **Action:** The camera slowly pans, moving through the camp, showing people making fires, talking, and repairing equipment.
+*   **End:** Ends with a silhouette of survivors high up, looking at the ruins at dusk.
 
-**Camera Movement:** 缓慢平移+轻微手持，纪实感运镜，无快速晃动
+**Camera Movement:** Slow pan + slight handheld, documentary-style camera work, no rapid shaking.
 
-**Physics/Details:** 破旧衣物纤维、营火火焰、沙尘颗粒、破损建筑的风化纹理
+**Physics/Details:** Worn clothing fibers, campfire flames, dust particles, weathered textures of damaged buildings.
 
-**Visual Bible:** 昏黄+灰褐，低饱和褪色，黄昏柔光，末世废土色调
-
+**Visual Bible:** Dull yellow + grayish-brown, low saturation and faded, soft dusk light, post-apocalyptic wasteland color scheme.
 \---
 
 ### 生成参数 (Generation Params)
@@ -340,17 +333,17 @@ negative: morphing, extra limbs, cartoonish, bright colors
 **Final Prompt (EN):**
 One continuous shot, an elderly sanitation worker sweeps the empty street at dawn, the camera follows from behind, ending with a close-up of their tired face lit by a streetlamp.
 
-**时空演变:**
+**Evolution of Time and Space:**
 
-* **Start:** 从高空远景开始，凌晨空旷城市街道，路灯泛黄，雾气弥漫
-* **Action:** 环卫工背影缓慢前行，扫帚摩擦地面，雾气流动
-* **End:** 镜头推近，定格在人物疲惫侧脸特写，哈气凝结白雾
+*   **Start:** Begins with a high-altitude, long shot of a deserted city street at dawn, with yellow streetlights and pervasive fog.
+*   **Action:** A sanitation worker's figure slowly moves forward, the broom rubbing against the ground, the fog flowing.
+*   **End:** The camera zooms in, focusing on a close-up of the person's tired profile, their breath condensing into white mist.
 
-**Camera Movement:** 缓慢垂降+后背跟随平移，轻微纪实手持抖动
+**Camera Movement:** Slow descent + panning to follow the back, slight documentary-style handheld shake.
 
-**Physics/Details:** 工装磨损纹理、路面水渍反光、扫帚纤维、皮肤冷凝水汽
+**Physics/Details:** Worn texture of the work clothes, reflections of water stains on the road surface, broom fibers, condensed moisture on the skin.
 
-**Visual Bible:** 灰黑+昏黄，低饱和褪色，粗颗粒纪实胶片，清冷孤寂色调
+**Visual Bible:** Gray-black + dim yellow, low saturation fading, coarse-grained documentary film, cold and lonely color tone.
 
 \---
 
@@ -373,17 +366,17 @@ negative: morphing, extra limbs, cartoonish, bright sunshine
 **Final Prompt (EN):**
 One continuous shot, a tired man walks up a dim old corridor, voice-activated lights turn on one by one, the camera follows, ending with a close-up of his worn briefcase.
 
-**时空演变:**
+**Time-Space Evolution:**
 
-* **Start:** 从楼道入口远景开始，昏暗无光，男人手提公文包踏入
-* **Action:** 脚步踏响，声控灯逐次亮起，光影在墙面闪烁
-* **End:** 定格在手部紧握磨损公文包的特写
+*   **Start:** Begins with a distant view of the entrance to the stairwell, dimly lit, a man enters carrying a briefcase.
+*   **Action:** Footsteps echo, motion-sensor lights turn on sequentially, light and shadows flicker on the walls.
+*   **End:** Focuses on a close-up of a hand tightly gripping a worn briefcase.
 
-**Camera Movement:** 侧后方贴跟推进，轻微上下颠簸，模拟上楼体感
+**Camera Movement:** Tracks from the side-rear, closely following, with slight vertical shake, simulating the feeling of going upstairs.
 
-**Physics/Details:** 水泥墙面粗糙纹理、公文包皮革磨损、手部青筋、灰尘丁达尔光
+**Physics/Details:** Rough texture of the cement walls, worn leather of the briefcase, veins in the hand, dust particles in the light (Tyndall effect).
 
-**Visual Bible:** 土黄+灰棕，低对比度，老旧录像带噪点，压抑疲惫色调
+**Visual Bible:** Earthy yellow + grayish-brown, low contrast, old videotape noise, a color palette of oppression and fatigue.
 
 \---
 
@@ -406,18 +399,17 @@ negative: morphing, extra limbs, cartoonish, bright colors
 **Final Prompt (EN):**
 One continuous shot, a woman stands alone at a bus stop in the rain, the camera pushes through the wet glass, ending with a close-up of her blank eyes.
 
-**时空演变:**
+**Time-Space Evolution:**
 
-* **Start:** 从站台外远景开始，阴雨天玻璃站台布满水痕，冷色城市背景
-* **Action:** 镜头穿透玻璃，聚焦站立的女性，冷风掀起衣角
-* **End:** 定格在她无神淡漠的眼部特写
+*   **Start:** Begin with a distant view from outside the platform, a rainy day with water marks on the glass platform, cold-toned city background.
+*   **Action:** The camera penetrates the glass, focusing on a standing woman, the cold wind lifting the hem of her coat.
+*   **End:** Freeze on a close-up of her listless and indifferent eyes.
 
-**Camera Movement:** 外部缓慢推近，穿透玻璃转内部平视，轻微呼吸晃动
+**Camera Movement:** Slow external push-in, penetrating the glass to an internal eye-level view, slight shaky breathing.
 
-**Physics/Details:** 风衣布料纹理、玻璃流水轨迹、雨水水珠、发丝湿润粘连
+**Physics/Details:** Texture of the trench coat fabric, streaks of water on the glass, raindrops, damp and clinging strands of hair.
 
-**Visual Bible:** 冷灰+浅蓝，极低饱和度，雨天雾蒙蒙滤镜，疏离清冷色调
-
+**Visual Bible:** Cold gray + light blue, extremely low saturation, foggy rainy-day filter, detached and cool color scheme.
 \---
 
 ### 生成参数 (Generation Params)
@@ -439,17 +431,17 @@ negative: morphing, extra limbs, cartoonish, bright sunshine
 **Final Prompt (EN):**
 One continuous shot, a teenager stays alone in a late-night convenience store, leans against the freezer, the camera pushes in, ending with a close-up of condensation on a soda can.
 
-**时空演变:**
+**Time-Space Evolution:**
 
-* **Start:** 从便利店门外远景开始，霓虹冷光穿透黑夜，玻璃门映着街道倒影
-* **Action:** 镜头推门进入，暖黄色灯光包裹店内，少年倚靠冰柜，触碰易拉罐
-* **End:** 定格在指尖凝露的水珠微距特写
+*   **Start:** Begins with a distant view outside a convenience store, neon lights piercing the night, glass doors reflecting street reflections.
+*   **Action:** The camera pushes in through the door, seamlessly transitioning, warm yellow light enveloping the store's interior, a young man leaning against a freezer, touching a soda can.
+*   **End:** Freezes on a close-up of water droplets condensed on his fingertips.
 
-**Camera Movement:** 门外平移推进，穿门无缝切换，轻微环绕慢移
+**Camera Movement:** Pans and pushes in from outside the door, seamless transition through the door, slight orbiting slow movement.
 
-**Physics/Details:** 易拉罐凝露水珠、冰柜玻璃雾气、塑料包装反光、灰尘浮沉
+**Physics/Details:** Condensed water droplets on the soda can, mist on the freezer glass, reflections on plastic packaging, floating dust particles.
 
-**Visual Bible:** 冷蓝霓虹+暖黄室内，高对比撞色，轻微过曝，日系写实色调
+**Visual Bible:** Cold blue neon + warm yellow interior, high contrast color clash, slight overexposure, Japanese realistic color palette.
 
 \---
 
